@@ -1,0 +1,15 @@
+{
+  "name": "Demo",
+  "marketplace": "Amazon",
+  "apiCredentials": {
+    "apiKey": "demoApiKey123456",
+    "apiSecret": "demoApiSecret7890",
+    "accessToken": "demoAccessToken_ABCDEF",
+    "refreshToken": "demoRefreshToken_XYZ123",
+    "clientId": "demoClientId_001",
+    "clientSecret": "demoClientSecret_002",
+    "region": "IN"
+  },
+  "xlsFilePath": "/files/demo-seller-products.xlsx",
+  "createdAt": "2024-06-24T12:00:00.000Z"
+}

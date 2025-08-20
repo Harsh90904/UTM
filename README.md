@@ -1,6 +1,7 @@
 # UTM
 
-**Short description of your project’s purpose**.
+UTM is a Node.js + Express backend project designed with modern web development tools and authentication features.  
+It provides APIs for authentication, user management, file handling, mailing, and integration with Google OAuth.
 
 ## Table of Contents
 
@@ -18,40 +19,18 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Overview
 
-Describe what the project is, its goals, and who it's for.
 
-## Features
+---
 
-List key features. E.g., real-time communication, data syncing, etc.
+## 🚀 Tech Stack
 
-## Architecture
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB (via Mongoose)  
+- **Authentication**: JWT, Passport.js, Google OAuth 2.0  
+- **File Handling**: Multer, XLSX  
+- **Mailing**: Nodemailer  
+- **Utilities**: dotenv, morgan, bcrypt  
 
-Explain how the `client` and `server` interact. Mention APIs, protocols, or flows.
 
-## Tech Stack
 
-- **Client**: framework/libraries used  
-- **Server**: framework/libraries used  
-- **Other tools**: databases, third-party services, etc.
-
-## Getting Started
-
-### Prerequisites
-
-What do users need installed? (Node, Docker, etc.)
-
-### Installation
-
-Steps to get the project running locally:
-
-```bash
-git clone https://github.com/Harsh90904/UTM.git
-cd UTM
-# Setup server
-cd server
-npm install
-# Setup client
-cd ../client
-npm install

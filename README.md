@@ -3,24 +3,6 @@
 UTM is a Node.js + Express backend project designed with modern web development tools and authentication features.  
 It provides APIs for authentication, user management, file handling, mailing, and integration with Google OAuth.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the project](#running-the-project)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
-
-
 ---
 
 ## 🚀 Tech Stack
